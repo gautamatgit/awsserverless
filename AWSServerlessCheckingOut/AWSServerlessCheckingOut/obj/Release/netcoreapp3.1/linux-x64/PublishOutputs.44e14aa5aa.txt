@@ -1,0 +1,14 @@
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\AWSServerlessCheckingOut
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\appsettings.Development.json
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\appsettings.json
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\aws-lambda-tools-defaults.json
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\AWSServerlessCheckingOut.dll
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\AWSServerlessCheckingOut.deps.json
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\AWSServerlessCheckingOut.runtimeconfig.json
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\AWSServerlessCheckingOut.pdb
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.AspNetCoreServer.dll
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Logging.AspNetCore.dll
+D:\SudhirSharma\LearningFolder\AWS\Serverless\AWSServerlessCheckingOut\AWSServerlessCheckingOut\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
