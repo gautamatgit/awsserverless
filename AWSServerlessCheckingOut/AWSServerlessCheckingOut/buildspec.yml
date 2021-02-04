@@ -10,12 +10,12 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
-      - dotnet restore AWSServerlessCheckingOut.csproj
+      - dotnet restore 
       
   build:
     commands:
       - echo Build started on `date`
-      - dotnet build AWSServerlessCheckingOut.csproj
+      - dotnet build 
       
   post_build:
     commands:
